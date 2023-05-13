@@ -2,7 +2,7 @@
 - 👀 I’m interested in .net development.
 - 🌱 I’m currently learning asp.net core.
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me : shivakv@protonmail.com 
+- 📫 How to reach me : shiva.kazemivand@gmail.com
 
 <!---
 kvshiva/kvshiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
